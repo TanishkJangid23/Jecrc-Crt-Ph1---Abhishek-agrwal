@@ -1,5 +1,3 @@
-// Temprature Conversion 
-// Take input in the form of Celcius and convert it into fahrenheit...
 
 #include<iostream>
 using namespace std;
